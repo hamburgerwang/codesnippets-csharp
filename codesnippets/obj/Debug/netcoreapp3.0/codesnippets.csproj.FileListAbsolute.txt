@@ -1,0 +1,8 @@
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/bin/Debug/netcoreapp3.0/codesnippets.deps.json
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/bin/Debug/netcoreapp3.0/codesnippets.dll
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/bin/Debug/netcoreapp3.0/codesnippets.pdb
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/obj/Debug/netcoreapp3.0/codesnippets.csprojAssemblyReference.cache
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/obj/Debug/netcoreapp3.0/codesnippets.AssemblyInfoInputs.cache
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/obj/Debug/netcoreapp3.0/codesnippets.AssemblyInfo.cs
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/obj/Debug/netcoreapp3.0/codesnippets.dll
+/Users/gangwan/Documents/dotnet-workspace/codesnippets/codesnippets/obj/Debug/netcoreapp3.0/codesnippets.pdb
